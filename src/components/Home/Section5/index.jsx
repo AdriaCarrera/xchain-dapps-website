@@ -730,8 +730,8 @@ function Section5() {
                                     2015
                                 </li>
                                 <li>
-                                    One of the few cryptocurrencies not a
-                                    security in the US
+                                    One of the few cryptocurrencies determined
+                                    not to be a security in the US
                                 </li>
                             </ul>
                         </div>
