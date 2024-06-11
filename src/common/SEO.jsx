@@ -1,7 +1,7 @@
 import Head from "next/head";
 import PropTypes from "prop-types";
 
-function SEO() {
+function SEO({ route }) {
   const baseUrl = "https://xrplevm.org";
   const keywords = "xrpl,evm sidechain,xrpl evm sidechain,blockchain";
   const title = "XRPL EVM Sidechain";
