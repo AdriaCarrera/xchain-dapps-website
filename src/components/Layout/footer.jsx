@@ -14,7 +14,7 @@ function Footer() {
                         Be the first to tap into XRP liquidity
                     </h2>
                     <a
-                        href="https://docs.google.com/forms/d/e/1FAIpQLSeYX-yyGkqq8zQ9nxyDI8nYUM9-8Y2G0yupeM8sziFI9rTR_w"
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSeYX-yyGkqq8zQ9nxyDI8nYUM9-8Y2G0yupeM8sziFI9rTR_w/viewform"
                         target="_blank"
                         className="px-5 py-3 w-max bg-[#9A52FF] flex justify-center items-center   md:text-[20px] font-bold rounded-[8px]"
                     >
