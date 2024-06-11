@@ -130,7 +130,7 @@ function Section1() {
                 <div />
                 <div />
                 <a
-                    href="https://opensource.ripple.com"
+                    href="https://docs.google.com/forms/d/e/1FAIpQLSeYX-yyGkqq8zQ9nxyDI8nYUM9-8Y2G0yupeM8sziFI9rTR_w"
                     target="_blank"
                     className="absolute top-[540px] left-[810px] hover:bg-[#5f00e5] transition-all duration-300 min-[1280px]:left-[990px] w-[270px] h-[90px] bg-[#9A52FF] flex justify-center items-center text-[20px] font-bold"
                 >

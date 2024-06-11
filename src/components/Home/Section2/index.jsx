@@ -13,7 +13,7 @@ function Section2() {
                     that single chain alone can&apos;t provide.
                     <br />
                     <a
-                        href="https://opensource.ripple.com/docs/axelar/intro-to-axelar/"
+                        href="https://opensource.ripple.com/docs/cross-chain-dapps/cross-chain-dapps/"
                         target="_blank"
                         className="text-[#9A52FF]"
                     >
