@@ -2,13 +2,13 @@ import Head from "next/head";
 import PropTypes from "prop-types";
 
 function SEO({ title, desc, route }) {
-  const baseUrl = "https://www.dummy.com";
-  const keywords = "lorem,ipsum,uuuodgn,odgg,aiejp";
+  const baseUrl = "https://xrplevm.org";
+  const keywords = "xrpl,evm sidechain,xrpl evm sidechain,blockchain";
   const description =
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dictum quis erat sit amet dictum. Suspendisse venenatis ac urna nec convallis. Aenean nec eros dolor. Cras sed purus ut nibh rhoncus euismod. Nulla a tristique nisi.";
+    "Be the first to build cross-chain dApps that harness the power of XRP liquidity in an EVM environment";
   const ogImage = {
-    url: "/img/cover-l3.png",
-    alt: "dummy - image",
+    url: "/og-image.png",
+    alt: "XRPL EVM Sidechain",
   };
 
   return (
@@ -29,16 +29,16 @@ function SEO({ title, desc, route }) {
       <meta property="twitter:card" content="summary_large_image" />
       <meta
         property="twitter:url"
-        content={`https://twitter.com/dummyaccount123`}
+        content={`https://twitter.com/peersyst`}
       />
-      <meta name="twitter:creator" content="@dummy1234" />
+      <meta name="twitter:creator" content="@peersyst" />
       <meta property="twitter:title" content={title} />
       <meta property="twitter:description" content={desc || description} />
       <meta property="twitter:image" content={ogImage.url} />
       <meta name="application-name" content={baseUrl} />
       <meta name="apple-mobile-web-app-capable" content="yes" />
       <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-      <meta name="apple-mobile-web-app-title" content="dummy company" />
+      <meta name="apple-mobile-web-app-title" content="Peersyst" />
       <meta name="format-detection" content="telephone=no" />
       <meta name="mobile-web-app-capable" content="yes" />
       <meta name="theme-color" content="#FFFFFF" />
